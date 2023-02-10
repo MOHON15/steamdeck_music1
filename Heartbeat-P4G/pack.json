@@ -1,0 +1,10 @@
+{
+  "name": "Heartbeat-P4G",
+  "description": "平田志穂子.",
+  "author": "MOHON15",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
